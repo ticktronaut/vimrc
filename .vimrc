@@ -33,9 +33,10 @@ Plug 'puremourning/vimspector' " needs vim compiled with python3.6
 Plug 'szw/vim-maximizer'
 
 " telescope requirements
-Plug 'nvim-lua/popup.nvim'
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
+"Plug 'nvim-lua/popup.nvim'
+"Plug 'nvim-lua/plenary.nvim'
+"Plug 'nvim-telescope/telescope.nvim'
+
 " make
 "Plug 'tpope/vim-dispatch'
 
